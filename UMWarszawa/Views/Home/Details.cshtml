@@ -1,0 +1,87 @@
+﻿@model Notification
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>@Model.Event</h2>
+<p>@Model.CreateDate</p>
+<h3>@Model.NotificationNumber</h3>
+<h4>@Model.Category</h4>
+<h5>@Model.Subcategory</h5>
+
+<address>
+    @Model.Street @Model.AparmentNumber<br />
+    @Model.Street2<br />
+    @Model.District
+</address>
+
+@if (Model.Statuses?.Count > 0)
+{
+    <div class="row">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Status</th>
+                    <th>Opis</th>
+                    <th>Data</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var status in Model.Statuses)
+                {
+                    <tr>
+                        <td>@status.StatusName</td>
+                        <td>@status.Description</td>
+                        <td>@status.ChangeDate</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+}
+
+<div id="map"></div>
+
+@section scripts
+{
+    <script>
+        function initMap() {
+            var lat = @Model.YCoordWGS84.ToString("G", new CultureInfo("en-US"));
+            var lng = @Model.XCoordWGS84.ToString("G", new CultureInfo("en-US"));
+            var content = '@Model.Event';
+
+            var position = new google.maps.LatLng(lat, lng);
+
+            var map = new google.maps.Map(document.getElementById('map'), {
+              center: position,
+              zoom: 11
+            });
+
+            var coordInfoWindow = new google.maps.InfoWindow();
+            coordInfoWindow.setContent(content);
+            coordInfoWindow.setPosition(position);
+            coordInfoWindow.open(map);
+        }
+
+          var TILE_SIZE = 256;
+
+          // The mapping between latitude, longitude and pixels is defined by the web
+          // mercator projection.
+          function project(latLng) {
+            var siny = Math.sin(latLng.lat() * Math.PI / 180);
+
+            // Truncating to 0.9999 effectively limits latitude to 89.189. This is
+            // about a third of a tile past the edge of the world tile.
+            siny = Math.min(Math.max(siny, -0.9999), 0.9999);
+
+            return new google.maps.Point(
+                TILE_SIZE * (0.5 + latLng.lng() / 360),
+                TILE_SIZE * (0.5 - Math.log((1 + siny) / (1 - siny)) / (4 * Math.PI)));
+          }
+    </script>
+    <script async defer
+            src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAKwpwSFFy85UR8cGjvAa21EjDF204Ojeo&callback=initMap">
+    </script>
+}
+
