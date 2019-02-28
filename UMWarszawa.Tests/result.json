@@ -1,0 +1,3246 @@
+{
+  "result": {
+    "success": true,
+    "result": {
+      "notifications": [
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "Komunikacja",
+          "district": null,
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INCIDENT",
+          "createDate": 1550836321000,
+          "siebelEventId": "1-I1FQUQ",
+          "source": "CALL",
+          "yCoordOracle": 0,
+          "street": null,
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550836571000
+            },
+            {
+              "status": "W trakcie",
+              "description": null,
+              "changeDate": 1550839199000
+            }
+          ],
+          "xCoordOracle": 0,
+          "notificationNumber": "85130\/19",
+          "yCoordWGS84": 0,
+          "event": "Uwagi dotycz\u0105ce przystanku - rozk\u0142ad jazdy, uszkodzenia",
+          "xCoordWGS84": 0
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "\u015amieci",
+          "district": "Mokot\u00f3w",
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INCIDENT",
+          "createDate": 1550832205000,
+          "siebelEventId": "1-I1EFYB",
+          "source": "PORTAL",
+          "yCoordOracle": 5785674.166849,
+          "street": "Pu\u0142awska",
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550832310000
+            },
+            {
+              "status": "W trakcie",
+              "description": "Zg\u0142oszenie zamkni\u0119te przez Operatora",
+              "changeDate": 1550832314000
+            }
+          ],
+          "xCoordOracle": 7501541.610284,
+          "notificationNumber": "84994\/19",
+          "yCoordWGS84": 52.20469176116404,
+          "event": "Zaleganie gabaryt\u00f3w",
+          "xCoordWGS84": 21.0225516569933
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "Ziele\u0144",
+          "district": "\u015ar\u00f3dmie\u015bcie",
+          "aparmentNumber": null,
+          "street2": "al. Jana Paw\u0142a II 27, 00-867 Wola",
+          "notificationType": "INCIDENT",
+          "createDate": 1550832729000,
+          "siebelEventId": "1-I1EP18",
+          "source": "MOBILE",
+          "yCoordOracle": 5789383.244634,
+          "street": null,
+          "deviceType": "ANDROID",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550832808000
+            },
+            {
+              "status": "W trakcie",
+              "description": null,
+              "changeDate": 1550836983000
+            }
+          ],
+          "xCoordOracle": 7499767.070059,
+          "notificationNumber": "85011\/19",
+          "yCoordWGS84": 52.23803,
+          "event": "Zg\u0142oszenie interwencji w zakresie zieleni przyulicznej, parkowej",
+          "xCoordWGS84": 20.99659
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "Drogi",
+          "district": "Bemowo",
+          "aparmentNumber": null,
+          "street2": "R. MILLERA 16A",
+          "notificationType": "INCIDENT",
+          "createDate": 1550833926000,
+          "siebelEventId": "1-I1EC7X",
+          "source": "MOBILE",
+          "yCoordOracle": 5791596.008193,
+          "street": null,
+          "deviceType": "ANDROID",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550833926000
+            },
+            {
+              "status": "W trakcie",
+              "description": null,
+              "changeDate": 1550838016000
+            }
+          ],
+          "xCoordOracle": 7494483.185944,
+          "notificationNumber": "85047\/19",
+          "yCoordWGS84": 52.25789,
+          "event": "\u0179le zaparkowane pojazdy",
+          "xCoordWGS84": 20.9192
+        },
+        {
+          "category": null,
+          "city": "Warszawa",
+          "subcategory": null,
+          "district": null,
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "COMPLAINT",
+          "createDate": 1550832310000,
+          "siebelEventId": "1-HUTTFX",
+          "source": "CALL",
+          "yCoordOracle": 0,
+          "street": null,
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1549438006000
+            },
+            {
+              "status": "W trakcie",
+              "description": "Zg\u0142oszenie zamkni\u0119te przez Operatora",
+              "changeDate": 1549438118000
+            },
+            {
+              "status": "Reklamowane - W trakcie",
+              "description": "Reklamacja wewn\u0119trzna",
+              "changeDate": 1550832720000
+            }
+          ],
+          "xCoordOracle": 0,
+          "notificationNumber": "84995\/19",
+          "yCoordWGS84": 0,
+          "event": null,
+          "xCoordWGS84": 0
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "\u015amieci",
+          "district": "Bia\u0142o\u0142\u0119ka",
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INCIDENT",
+          "createDate": 1550832485000,
+          "siebelEventId": "1-I1ENGO",
+          "source": "CALL",
+          "yCoordOracle": 5803001.62103,
+          "street": "Ruskowy Br\u00f3d",
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550832780000
+            },
+            {
+              "status": "W trakcie",
+              "description": "Przekazano do Operatora",
+              "changeDate": 1550832790000
+            }
+          ],
+          "xCoordOracle": 7503730.258328,
+          "notificationNumber": "85001\/19",
+          "yCoordWGS84": 52.36041382235052,
+          "event": "Nowy punkt odbioru odpad\u00f3w",
+          "xCoordWGS84": 21.054760219597267
+        },
+        {
+          "category": null,
+          "city": null,
+          "subcategory": null,
+          "district": null,
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INFORMATIONAL",
+          "createDate": 1550832153000,
+          "siebelEventId": "1-I1EGMA",
+          "source": "CALL",
+          "yCoordOracle": 0,
+          "street": null,
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550833316000
+            },
+            {
+              "status": "W trakcie",
+              "description": null,
+              "changeDate": 1550838432000
+            }
+          ],
+          "xCoordOracle": 0,
+          "notificationNumber": "84993\/19",
+          "yCoordWGS84": 0,
+          "event": null,
+          "xCoordWGS84": 0
+        },
+        {
+          "category": "Wolne wnioski i uwagi",
+          "city": null,
+          "subcategory": "Wolne wnioski i uwagi",
+          "district": null,
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "FREEFORM",
+          "createDate": 1550833112000,
+          "siebelEventId": "1-I1EO0B",
+          "source": "CALL",
+          "yCoordOracle": 0,
+          "street": null,
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550833308000
+            },
+            {
+              "status": "W trakcie",
+              "description": null,
+              "changeDate": 1550846818000
+            }
+          ],
+          "xCoordOracle": 0,
+          "notificationNumber": "85023\/19",
+          "yCoordWGS84": 0,
+          "event": "Wolne wnioski i uwagi",
+          "xCoordWGS84": 0
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "\u015amieci",
+          "district": "Mokot\u00f3w",
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INCIDENT",
+          "createDate": 1550832782000,
+          "siebelEventId": "1-I1EP3H",
+          "source": "PORTAL",
+          "yCoordOracle": 5785931.859998,
+          "street": "L. Narbutta",
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550832826000
+            },
+            {
+              "status": "W trakcie",
+              "description": "Zg\u0142oszenie zamkni\u0119te przez Operatora",
+              "changeDate": 1550832834000
+            }
+          ],
+          "xCoordOracle": 7501299.79,
+          "notificationNumber": "85014\/19",
+          "yCoordWGS84": 52.20700846265994,
+          "event": "Nie dostarczono pojemnika \/ worka",
+          "xCoordWGS84": 21.01901514473786
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "Drogi",
+          "district": "\u015ar\u00f3dmie\u015bcie",
+          "aparmentNumber": null,
+          "street2": "Browarna 6, 00-311 \u015ar\u00f3dmie\u015bcie",
+          "notificationType": "INCIDENT",
+          "createDate": 1550834284000,
+          "siebelEventId": "1-I1EOQK",
+          "source": "MOBILE",
+          "yCoordOracle": 5789660.298469,
+          "street": null,
+          "deviceType": "IOS",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550834288000
+            },
+            {
+              "status": "W trakcie",
+              "description": null,
+              "changeDate": 1550839558000
+            }
+          ],
+          "xCoordOracle": 7501551.860771,
+          "notificationNumber": "85061\/19",
+          "yCoordWGS84": 52.2405179362304,
+          "event": "\u0179le zaparkowane pojazdy",
+          "xCoordWGS84": 21.022719883769
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "Drogi",
+          "district": "Wawer",
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INCIDENT",
+          "createDate": 1550832978000,
+          "siebelEventId": "1-I1EWL7",
+          "source": "CALL",
+          "yCoordOracle": 5783266.657916,
+          "street": "Zasadowa",
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550833473000
+            },
+            {
+              "status": "W trakcie",
+              "description": null,
+              "changeDate": 1550838872000
+            }
+          ],
+          "xCoordOracle": 7511763.898094,
+          "notificationNumber": "85021\/19",
+          "yCoordWGS84": 52.18293043708367,
+          "event": "Zg\u0142oszenie uszkodzenia chodnika, \u015bcie\u017cki rowerowej, lub wykruszenia nawierzchni jezdni",
+          "xCoordWGS84": 21.172005845221406
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "\u015amieci",
+          "district": "Ursyn\u00f3w",
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INCIDENT",
+          "createDate": 1550833081000,
+          "siebelEventId": "1-I1EWOT",
+          "source": "MAIL",
+          "yCoordOracle": 5780136.715999,
+          "street": "J. Cybisa",
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550833505000
+            },
+            {
+              "status": "W trakcie",
+              "description": "Zg\u0142oszenie zamkni\u0119te przez Operatora",
+              "changeDate": 1550833513000
+            }
+          ],
+          "xCoordOracle": 7501742.297,
+          "notificationNumber": "85022\/19",
+          "yCoordWGS84": 52.154921786947824,
+          "event": "Nowy punkt odbioru odpad\u00f3w",
+          "xCoordWGS84": 21.025458996580344
+        },
+        {
+          "category": null,
+          "city": "Warszawa",
+          "subcategory": null,
+          "district": null,
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "COMPLAINT",
+          "createDate": 1550833446000,
+          "siebelEventId": "1-I0OI2O",
+          "source": "CALL",
+          "yCoordOracle": 0,
+          "street": null,
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550676195000
+            },
+            {
+              "status": "W trakcie",
+              "description": "Zg\u0142oszenie zamkni\u0119te przez Operatora",
+              "changeDate": 1550676200000
+            }
+          ],
+          "xCoordOracle": 0,
+          "notificationNumber": "85036\/19",
+          "yCoordWGS84": 0,
+          "event": null,
+          "xCoordWGS84": 0
+        },
+        {
+          "category": null,
+          "city": null,
+          "subcategory": null,
+          "district": null,
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "COMPLAINT",
+          "createDate": 1550839820000,
+          "siebelEventId": "1-HZN1X9",
+          "source": "CALL",
+          "yCoordOracle": 0,
+          "street": null,
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550494929000
+            },
+            {
+              "status": "W trakcie",
+              "description": "Zg\u0142oszenie zamkni\u0119te przez Operatora",
+              "changeDate": 1550494943000
+            }
+          ],
+          "xCoordOracle": 0,
+          "notificationNumber": "85250\/19",
+          "yCoordWGS84": 0,
+          "event": null,
+          "xCoordWGS84": 0
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "\u015amieci",
+          "district": "Ursyn\u00f3w",
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INCIDENT",
+          "createDate": 1550833961000,
+          "siebelEventId": "1-I1EU3Z",
+          "source": "CALL",
+          "yCoordOracle": 5778857.411999,
+          "street": "K\u0105dzio\u0142eczki",
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550834271000
+            },
+            {
+              "status": "W trakcie",
+              "description": "Zg\u0142oszenie zamkni\u0119te przez Operatora",
+              "changeDate": 1550834275000
+            }
+          ],
+          "xCoordOracle": 7500020.365,
+          "notificationNumber": "85048\/19",
+          "yCoordWGS84": 52.143426372889856,
+          "event": "Nie dostarczono pojemnika \/ worka",
+          "xCoordWGS84": 21.000297503214096
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "Drogi",
+          "district": "\u015ar\u00f3dmie\u015bcie",
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INCIDENT",
+          "createDate": 1550833731000,
+          "siebelEventId": "1-I1ETWB",
+          "source": "CALL",
+          "yCoordOracle": 5790753.026386,
+          "street": null,
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550833906000
+            },
+            {
+              "status": "W trakcie",
+              "description": null,
+              "changeDate": 1550836805000
+            }
+          ],
+          "xCoordOracle": 7499607.068363,
+          "notificationNumber": "85043\/19",
+          "yCoordWGS84": 52.25034106888627,
+          "event": "Uszkodzenie lub brak urz\u0105dze\u0144 r\u00f3\u017cnych - zamontowanych w jezdniach, chodnikach",
+          "xCoordWGS84": 20.994246047784344
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "Drogi",
+          "district": "Mokot\u00f3w",
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INCIDENT",
+          "createDate": 1550833845000,
+          "siebelEventId": "1-I1F3PO",
+          "source": "CALL",
+          "yCoordOracle": 5784854.072658,
+          "street": null,
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550834453000
+            },
+            {
+              "status": "W trakcie",
+              "description": null,
+              "changeDate": 1550834619000
+            }
+          ],
+          "xCoordOracle": 7503486.88913,
+          "notificationNumber": "85046\/19",
+          "yCoordWGS84": 52.19731209703986,
+          "event": "Uszkodzenie sygnalizacji \u015bwietlnej",
+          "xCoordWGS84": 21.050999988110753
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "\u015amieci",
+          "district": "Mokot\u00f3w",
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INCIDENT",
+          "createDate": 1550833841000,
+          "siebelEventId": "1-I1ETUZ",
+          "source": "PORTAL",
+          "yCoordOracle": 5785489.938572,
+          "street": "Belgijska",
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550833894000
+            },
+            {
+              "status": "W trakcie",
+              "description": "Zg\u0142oszenie zamkni\u0119te przez Operatora",
+              "changeDate": 1550833898000
+            }
+          ],
+          "xCoordOracle": 7501799.542232,
+          "notificationNumber": "85045\/19",
+          "yCoordWGS84": 52.203035183837876,
+          "event": "Zaleganie gabaryt\u00f3w",
+          "xCoordWGS84": 21.0263238709834
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "\u015amieci",
+          "district": "Wola",
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INCIDENT",
+          "createDate": 1550834619000,
+          "siebelEventId": "1-I1FBE3",
+          "source": "PORTAL",
+          "yCoordOracle": 5787847.052733,
+          "street": "Jana Kazimierza",
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550835311000
+            },
+            {
+              "status": "W trakcie",
+              "description": "Zg\u0142oszenie zamkni\u0119te przez Operatora",
+              "changeDate": 1550835322000
+            }
+          ],
+          "xCoordOracle": 7496069.443359,
+          "notificationNumber": "85076\/19",
+          "yCoordWGS84": 52.22420920056818,
+          "event": "Nie dostarczono pojemnika \/ worka",
+          "xCoordWGS84": 20.942476106519827
+        },
+        {
+          "category": null,
+          "city": null,
+          "subcategory": null,
+          "district": null,
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INFORMATIONAL",
+          "createDate": 1550833643000,
+          "siebelEventId": "1-I1F581",
+          "source": "CALL",
+          "yCoordOracle": 0,
+          "street": null,
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550834550000
+            },
+            {
+              "status": "W trakcie",
+              "description": null,
+              "changeDate": 1550838526000
+            }
+          ],
+          "xCoordOracle": 0,
+          "notificationNumber": "85041\/19",
+          "yCoordWGS84": 0,
+          "event": null,
+          "xCoordWGS84": 0
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "Komunikacja",
+          "district": null,
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INCIDENT",
+          "createDate": 1550833621000,
+          "siebelEventId": "1-I1EWVH",
+          "source": "CALL",
+          "yCoordOracle": 0,
+          "street": null,
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550834030000
+            },
+            {
+              "status": "W trakcie",
+              "description": null,
+              "changeDate": 1550834989000
+            }
+          ],
+          "xCoordOracle": 0,
+          "notificationNumber": "85040\/19",
+          "yCoordWGS84": 0,
+          "event": "Biletomat - problemy z transakcj\u0105",
+          "xCoordWGS84": 0
+        },
+        {
+          "category": null,
+          "city": null,
+          "subcategory": null,
+          "district": null,
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "STATUS",
+          "createDate": 1550834063000,
+          "siebelEventId": "1-I0LVMX",
+          "source": "CALL",
+          "yCoordOracle": 0,
+          "street": null,
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550668130000
+            },
+            {
+              "status": "W trakcie",
+              "description": "Zg\u0142oszenie zamkni\u0119te przez Operatora",
+              "changeDate": 1550668156000
+            }
+          ],
+          "xCoordOracle": 0,
+          "notificationNumber": "85051\/19",
+          "yCoordWGS84": 0,
+          "event": null,
+          "xCoordWGS84": 0
+        },
+        {
+          "category": null,
+          "city": "Warszawa",
+          "subcategory": null,
+          "district": null,
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "COMPLAINT",
+          "createDate": 1550834253000,
+          "siebelEventId": "1-HT7TRV",
+          "source": "CALL",
+          "yCoordOracle": 0,
+          "street": null,
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1549013925000
+            },
+            {
+              "status": "W trakcie",
+              "description": "Zg\u0142oszenie zamkni\u0119te przez Operatora",
+              "changeDate": 1549013931000
+            }
+          ],
+          "xCoordOracle": 0,
+          "notificationNumber": "85059\/19",
+          "yCoordWGS84": 0,
+          "event": null,
+          "xCoordWGS84": 0
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "\u015amieci",
+          "district": "Wawer",
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INCIDENT",
+          "createDate": 1550834309000,
+          "siebelEventId": "1-I1F5DM",
+          "source": "CALL",
+          "yCoordOracle": 5783782.572611,
+          "street": "A. Or\u0142owskiego",
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550834703000
+            },
+            {
+              "status": "W trakcie",
+              "description": "Przekazano do Operatora",
+              "changeDate": 1550834719000
+            }
+          ],
+          "xCoordOracle": 7513171.05491,
+          "notificationNumber": "85064\/19",
+          "yCoordWGS84": 52.1875355462945,
+          "event": "Nie dostarczono pojemnika \/ worka",
+          "xCoordWGS84": 21.19260050273386
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "\u015amieci",
+          "district": "\u017boliborz",
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INCIDENT",
+          "createDate": 1550834212000,
+          "siebelEventId": "1-I1F1ME",
+          "source": "PORTAL",
+          "yCoordOracle": 5792454.840998,
+          "street": "W. Niegolewskiego",
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550835236000
+            },
+            {
+              "status": "W trakcie",
+              "description": "Zg\u0142oszenie zamkni\u0119te przez Operatora",
+              "changeDate": 1550835244000
+            }
+          ],
+          "xCoordOracle": 7498968.256,
+          "notificationNumber": "85058\/19",
+          "yCoordWGS84": 52.26563557081029,
+          "event": "Nowy punkt odbioru odpad\u00f3w",
+          "xCoordWGS84": 20.98488630692872
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "Drogi",
+          "district": "Wola",
+          "aparmentNumber": null,
+          "street2": "\u015aW. WOJCIECHA 4D",
+          "notificationType": "INCIDENT",
+          "createDate": 1550834307000,
+          "siebelEventId": "1-I1F040",
+          "source": "MOBILE",
+          "yCoordOracle": 5789168.109956,
+          "street": null,
+          "deviceType": "ANDROID",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550834312000
+            },
+            {
+              "status": "W trakcie",
+              "description": null,
+              "changeDate": 1550839846000
+            }
+          ],
+          "xCoordOracle": 7497326.995364,
+          "notificationNumber": "85063\/19",
+          "yCoordWGS84": 52.23609,
+          "event": "Porzucone wraki samochod\u00f3w",
+          "xCoordWGS84": 20.96087
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "\u015amieci",
+          "district": "Mokot\u00f3w",
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INCIDENT",
+          "createDate": 1550834723000,
+          "siebelEventId": "1-I1FBIO",
+          "source": "PORTAL",
+          "yCoordOracle": 5782650.316404,
+          "street": "Egejska",
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550835413000
+            },
+            {
+              "status": "W trakcie",
+              "description": "Zg\u0142oszenie zamkni\u0119te przez Operatora",
+              "changeDate": 1550835424000
+            }
+          ],
+          "xCoordOracle": 7503991.195391,
+          "notificationNumber": "85081\/19",
+          "yCoordWGS84": 52.1775018416462,
+          "event": "Wymiana uszkodzonego pojemnika",
+          "xCoordWGS84": 21.058350142725583
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "\u015amieci",
+          "district": "Praga-P\u00f3\u0142noc",
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INCIDENT",
+          "createDate": 1550834560000,
+          "siebelEventId": "1-I1F1IV",
+          "source": "CALL",
+          "yCoordOracle": 5793859.279999,
+          "street": "W. Gersona",
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550835024000
+            },
+            {
+              "status": "W trakcie",
+              "description": "Przekazano do Operatora",
+              "changeDate": 1550835031000
+            }
+          ],
+          "xCoordOracle": 7500938.685,
+          "notificationNumber": "85074\/19",
+          "yCoordWGS84": 52.2782583254656,
+          "event": "Nie dostarczono pojemnika \/ worka",
+          "xCoordWGS84": 21.01375440733048
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "\u015amieci",
+          "district": "Ursyn\u00f3w",
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INCIDENT",
+          "createDate": 1550835437000,
+          "siebelEventId": "1-I1FQNJ",
+          "source": "CALL",
+          "yCoordOracle": 5780949.108187,
+          "street": "K\u0142obucka",
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550836331000
+            },
+            {
+              "status": "W trakcie",
+              "description": "Zg\u0142oszenie zamkni\u0119te przez Operatora",
+              "changeDate": 1550836348000
+            }
+          ],
+          "xCoordOracle": 7499497.489953,
+          "notificationNumber": "85098\/19",
+          "yCoordWGS84": 52.16222593314872,
+          "event": "Brak nieruchomo\u015bci w harmonogramie",
+          "xCoordWGS84": 20.99265596177509
+        },
+        {
+          "category": null,
+          "city": null,
+          "subcategory": null,
+          "district": null,
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INFORMATIONAL",
+          "createDate": 1550834424000,
+          "siebelEventId": "1-I1FBNQ",
+          "source": "CALL",
+          "yCoordOracle": 0,
+          "street": null,
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550835530000
+            },
+            {
+              "status": "W trakcie",
+              "description": null,
+              "changeDate": 1550838605000
+            }
+          ],
+          "xCoordOracle": 0,
+          "notificationNumber": "85069\/19",
+          "yCoordWGS84": 0,
+          "event": null,
+          "xCoordWGS84": 0
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "\u015amieci",
+          "district": "Wawer",
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INCIDENT",
+          "createDate": 1550834632000,
+          "siebelEventId": "1-I1F3ZH",
+          "source": "CALL",
+          "yCoordOracle": 5788768.202999,
+          "street": "Barb\u00f3rki",
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550834863000
+            },
+            {
+              "status": "W trakcie",
+              "description": "Przekazano do Operatora",
+              "changeDate": 1550834875000
+            }
+          ],
+          "xCoordOracle": 7509322.622,
+          "notificationNumber": "85077\/19",
+          "yCoordWGS84": 52.232423366658146,
+          "event": "Nie dostarczono pojemnika \/ worka",
+          "xCoordWGS84": 21.13646224799017
+        },
+        {
+          "category": null,
+          "city": "Warszawa",
+          "subcategory": null,
+          "district": null,
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "COMPLAINT",
+          "createDate": 1550834768000,
+          "siebelEventId": "1-HT77RY",
+          "source": "CALL",
+          "yCoordOracle": 0,
+          "street": null,
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1549012357000
+            },
+            {
+              "status": "W trakcie",
+              "description": "Zg\u0142oszenie zamkni\u0119te przez Operatora",
+              "changeDate": 1549012368000
+            },
+            {
+              "status": "Zamkni\u0119te",
+              "description": "Odpady zosta\u0142y odebrane",
+              "changeDate": 1549445046000
+            },
+            {
+              "status": "Reklamowane - W trakcie",
+              "description": null,
+              "changeDate": 1550574360000
+            }
+          ],
+          "xCoordOracle": 0,
+          "notificationNumber": "85083\/19",
+          "yCoordWGS84": 0,
+          "event": null,
+          "xCoordWGS84": 0
+        },
+        {
+          "category": null,
+          "city": null,
+          "subcategory": null,
+          "district": null,
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "COMPLAINT",
+          "createDate": 1550834516000,
+          "siebelEventId": "1-HXMGED",
+          "source": "CALL",
+          "yCoordOracle": 0,
+          "street": null,
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550048988000
+            },
+            {
+              "status": "W trakcie",
+              "description": "Zg\u0142oszenie zamkni\u0119te przez Operatora",
+              "changeDate": 1550048993000
+            }
+          ],
+          "xCoordOracle": 0,
+          "notificationNumber": "85073\/19",
+          "yCoordWGS84": 0,
+          "event": null,
+          "xCoordWGS84": 0
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "\u015amieci",
+          "district": "Rembert\u00f3w",
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INCIDENT",
+          "createDate": 1550834653000,
+          "siebelEventId": "1-I1F5MB",
+          "source": "CALL",
+          "yCoordOracle": 5792313.316999,
+          "street": "Masztalerska",
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550835107000
+            },
+            {
+              "status": "W trakcie",
+              "description": "Przekazano do Operatora",
+              "changeDate": 1550835122000
+            }
+          ],
+          "xCoordOracle": 7510404.509,
+          "notificationNumber": "85078\/19",
+          "yCoordWGS84": 52.26426621157959,
+          "event": "Nie dostarczono pojemnika \/ worka",
+          "xCoordWGS84": 21.1524077264473
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "\u015amieci",
+          "district": "Praga-Po\u0142udnie",
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INCIDENT",
+          "createDate": 1550834738000,
+          "siebelEventId": "1-I1FDXE",
+          "source": "CALL",
+          "yCoordOracle": 5790313.097886,
+          "street": "Kobielska",
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550835651000
+            },
+            {
+              "status": "W trakcie",
+              "description": null,
+              "changeDate": 1550835669000
+            }
+          ],
+          "xCoordOracle": 7506073.854297,
+          "notificationNumber": "85082\/19",
+          "yCoordWGS84": 52.24635377741096,
+          "event": "Nowy punkt odbioru odpad\u00f3w",
+          "xCoordWGS84": 21.08893541443798
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "Drogi",
+          "district": "\u015ar\u00f3dmie\u015bcie",
+          "aparmentNumber": null,
+          "street2": "WA\u0141OWA 5",
+          "notificationType": "INCIDENT",
+          "createDate": 1550834984000,
+          "siebelEventId": "1-I1F8CM",
+          "source": "MOBILE",
+          "yCoordOracle": 5790766.243482,
+          "street": null,
+          "deviceType": "ANDROID",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550834989000
+            },
+            {
+              "status": "W trakcie",
+              "description": null,
+              "changeDate": 1550840583000
+            }
+          ],
+          "xCoordOracle": 7499996.585559,
+          "notificationNumber": "85091\/19",
+          "yCoordWGS84": 52.25046,
+          "event": "\u0179le zaparkowane pojazdy",
+          "xCoordWGS84": 20.99995
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "\u015amieci",
+          "district": "Mokot\u00f3w",
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INCIDENT",
+          "createDate": 1550834946000,
+          "siebelEventId": "1-I1F1RM",
+          "source": "PORTAL",
+          "yCoordOracle": 5782542.153245,
+          "street": "Malta\u0144ska",
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550835443000
+            },
+            {
+              "status": "W trakcie",
+              "description": "Zg\u0142oszenie zamkni\u0119te przez Operatora",
+              "changeDate": 1550835457000
+            }
+          ],
+          "xCoordOracle": 7503563.454958,
+          "notificationNumber": "85089\/19",
+          "yCoordWGS84": 52.17653262201242,
+          "event": "Wymiana uszkodzonego pojemnika",
+          "xCoordWGS84": 21.052095566365864
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "Drogi",
+          "district": "Wola",
+          "aparmentNumber": null,
+          "street2": "KOLSKA 9A",
+          "notificationType": "INCIDENT",
+          "createDate": 1550835993000,
+          "siebelEventId": "1-I1F9FI",
+          "source": "MOBILE",
+          "yCoordOracle": 5790719.762062,
+          "street": null,
+          "deviceType": "ANDROID",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550835998000
+            },
+            {
+              "status": "W trakcie",
+              "description": null,
+              "changeDate": 1550841915000
+            }
+          ],
+          "xCoordOracle": 7498429.342401,
+          "notificationNumber": "85118\/19",
+          "yCoordWGS84": 52.25004,
+          "event": "\u0179le zaparkowane pojazdy",
+          "xCoordWGS84": 20.977
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "\u015amieci",
+          "district": "Weso\u0142a",
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INCIDENT",
+          "createDate": 1550836265000,
+          "siebelEventId": "1-I1G0SM",
+          "source": "PORTAL",
+          "yCoordOracle": 5786955.166752,
+          "street": "Rumiankowa",
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550837309000
+            },
+            {
+              "status": "W trakcie",
+              "description": "Zg\u0142oszenie zamkni\u0119te przez Operatora",
+              "changeDate": 1550837316000
+            }
+          ],
+          "xCoordOracle": 7517259.726721,
+          "notificationNumber": "85127\/19",
+          "yCoordWGS84": 52.21593699873155,
+          "event": "Nie dostarczono pojemnika \/ worka",
+          "xCoordWGS84": 21.252550231512387
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "\u015amieci",
+          "district": "Bielany",
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INCIDENT",
+          "createDate": 1550835737000,
+          "siebelEventId": "1-I1FLD7",
+          "source": "CALL",
+          "yCoordOracle": 5794118.689999,
+          "street": "B. Zuga",
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550836013000
+            },
+            {
+              "status": "W trakcie",
+              "description": "Zg\u0142oszenie zamkni\u0119te przez Operatora",
+              "changeDate": 1550836026000
+            }
+          ],
+          "xCoordOracle": 7496949.429,
+          "notificationNumber": "85107\/19",
+          "yCoordWGS84": 52.280582146208445,
+          "event": "Nowy punkt odbioru odpad\u00f3w",
+          "xCoordWGS84": 20.955298111910754
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "\u015amieci",
+          "district": "Praga-P\u00f3\u0142noc",
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INCIDENT",
+          "createDate": 1550835659000,
+          "siebelEventId": "1-I1FM2Y",
+          "source": "CALL",
+          "yCoordOracle": 5792266.802999,
+          "street": "J. M\u0142ota",
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550835973000
+            },
+            {
+              "status": "W trakcie",
+              "description": null,
+              "changeDate": 1550835981000
+            }
+          ],
+          "xCoordOracle": 7502003.003,
+          "notificationNumber": "85105\/19",
+          "yCoordWGS84": 52.26394287338976,
+          "event": "Nowy punkt odbioru odpad\u00f3w",
+          "xCoordWGS84": 21.029340243367226
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "Drogi",
+          "district": "\u015ar\u00f3dmie\u015bcie",
+          "aparmentNumber": null,
+          "street2": "LWOWSKA 7, 00-660 \u015ar\u00f3dmie\u015bcie",
+          "notificationType": "INCIDENT",
+          "createDate": 1550835716000,
+          "siebelEventId": "1-I1FL79",
+          "source": "MOBILE",
+          "yCoordOracle": 5787506.071998,
+          "street": null,
+          "deviceType": "IOS",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550835799000
+            },
+            {
+              "status": "W trakcie",
+              "description": null,
+              "changeDate": 1550838724000
+            }
+          ],
+          "xCoordOracle": 7500834.956,
+          "notificationNumber": "85106\/19",
+          "yCoordWGS84": 52.2211579481559,
+          "event": "Zg\u0142oszenie o zaj\u0119ciu pasa drogi",
+          "xCoordWGS84": 21.012218784953
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "\u015amieci",
+          "district": "Praga P\u00f3\u0142noc",
+          "aparmentNumber": null,
+          "street2": "K. DARWINA 1A, 03-484 Praga-P\u00f3\u0142noc",
+          "notificationType": "INCIDENT",
+          "createDate": 1550836245000,
+          "siebelEventId": "1-I1FLQ7",
+          "source": "MOBILE",
+          "yCoordOracle": 5792196.459345,
+          "street": null,
+          "deviceType": "IOS",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550836338000
+            },
+            {
+              "status": "W trakcie",
+              "description": null,
+              "changeDate": 1550838717000
+            }
+          ],
+          "xCoordOracle": 7501559.94092,
+          "notificationNumber": "85125\/19",
+          "yCoordWGS84": 52.2633120835909,
+          "event": "Nieczysto\u015bci w miejscach publicznych",
+          "xCoordWGS84": 21.0228498891879
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "Drogi",
+          "district": "Bia\u0142o\u0142\u0119ka",
+          "aparmentNumber": null,
+          "street2": "Starej Gruszy 8, 03-289 Bia\u0142o\u0142\u0119ka",
+          "notificationType": "INCIDENT",
+          "createDate": 1550836251000,
+          "siebelEventId": "1-I1G0OM",
+          "source": "MOBILE",
+          "yCoordOracle": 5797272.287019,
+          "street": null,
+          "deviceType": "ANDROID",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550837217000
+            },
+            {
+              "status": "W trakcie",
+              "description": null,
+              "changeDate": 1550838699000
+            }
+          ],
+          "xCoordOracle": 7503905.757564,
+          "notificationNumber": "85126\/19",
+          "yCoordWGS84": 52.30892,
+          "event": "Uszkodzenie lub brak urz\u0105dze\u0144 r\u00f3\u017cnych - zamontowanych w jezdniach, chodnikach",
+          "xCoordWGS84": 21.05727
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "\u015amieci",
+          "district": "Bia\u0142o\u0142\u0119ka",
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INCIDENT",
+          "createDate": 1550835405000,
+          "siebelEventId": "1-I1FDV3",
+          "source": "PORTAL",
+          "yCoordOracle": 5799621.649287,
+          "street": "Wyszkowska",
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550835587000
+            },
+            {
+              "status": "W trakcie",
+              "description": null,
+              "changeDate": 1550838834000
+            }
+          ],
+          "xCoordOracle": 7504402.526826,
+          "notificationNumber": "85097\/19",
+          "yCoordWGS84": 52.330031275684924,
+          "event": "Zalegaj\u0105ce nieczysto\u015bci w miejscach publicznych",
+          "xCoordWGS84": 21.064584839428676
+        },
+        {
+          "category": "Wolne wnioski i uwagi",
+          "city": null,
+          "subcategory": "Uwagi do aplikacji mobilnej",
+          "district": null,
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "FREEFORM",
+          "createDate": 1550837852000,
+          "siebelEventId": "1-I1FHTW",
+          "source": "MOBILE",
+          "yCoordOracle": 0,
+          "street": null,
+          "deviceType": "ANDROID",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550837852000
+            },
+            {
+              "status": "W trakcie",
+              "description": null,
+              "changeDate": 1550996520000
+            }
+          ],
+          "xCoordOracle": 0,
+          "notificationNumber": "85192\/19",
+          "yCoordWGS84": 0,
+          "event": null,
+          "xCoordWGS84": 0
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "\u015amieci",
+          "district": "Ursyn\u00f3w",
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INCIDENT",
+          "createDate": 1550837265000,
+          "siebelEventId": "1-I1G12C",
+          "source": "CALL",
+          "yCoordOracle": 5781629.994022,
+          "street": "Arbuzowa",
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550837520000
+            },
+            {
+              "status": "W trakcie",
+              "description": "Zg\u0142oszenie zamkni\u0119te przez Operatora",
+              "changeDate": 1550837531000
+            }
+          ],
+          "xCoordOracle": 7503184.271172,
+          "notificationNumber": "85162\/19",
+          "yCoordWGS84": 52.16833664681823,
+          "event": "Nowy punkt odbioru odpad\u00f3w",
+          "xCoordWGS84": 21.04654357344381
+        },
+        {
+          "category": null,
+          "city": "Warszawa",
+          "subcategory": null,
+          "district": null,
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "COMPLAINT",
+          "createDate": 1550836073000,
+          "siebelEventId": "1-HRQUHO",
+          "source": "CALL",
+          "yCoordOracle": 0,
+          "street": null,
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1548691870000
+            },
+            {
+              "status": "W trakcie",
+              "description": "Zg\u0142oszenie zamkni\u0119te przez Operatora",
+              "changeDate": 1548691878000
+            },
+            {
+              "status": "Zamkni\u0119te",
+              "description": "Zmiana harmonogramu\/cz\u0119stotliwo\u015b\u0107",
+              "changeDate": 1548925347000
+            },
+            {
+              "status": "Reklamowane - W trakcie",
+              "description": "Zmiana harmonogramu\/cz\u0119stotliwo\u015b\u0107",
+              "changeDate": 1550836228000
+            }
+          ],
+          "xCoordOracle": 0,
+          "notificationNumber": "85119\/19",
+          "yCoordWGS84": 0,
+          "event": null,
+          "xCoordWGS84": 0
+        },
+        {
+          "category": null,
+          "city": null,
+          "subcategory": null,
+          "district": null,
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "COMPLAINT",
+          "createDate": 1550836229000,
+          "siebelEventId": "1-HRQUP7",
+          "source": "CALL",
+          "yCoordOracle": 0,
+          "street": null,
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1548692072000
+            },
+            {
+              "status": "W trakcie",
+              "description": "Zg\u0142oszenie zamkni\u0119te przez Operatora",
+              "changeDate": 1548692083000
+            },
+            {
+              "status": "Zamkni\u0119te",
+              "description": "Zmiana harmonogramu\/cz\u0119stotliwo\u015b\u0107",
+              "changeDate": 1549274314000
+            },
+            {
+              "status": "Reklamowane - W trakcie",
+              "description": "Zmiana harmonogramu\/cz\u0119stotliwo\u015b\u0107",
+              "changeDate": 1550836361000
+            }
+          ],
+          "xCoordOracle": 0,
+          "notificationNumber": "85123\/19",
+          "yCoordWGS84": 0,
+          "event": null,
+          "xCoordWGS84": 0
+        },
+        {
+          "category": null,
+          "city": "Warszawa",
+          "subcategory": null,
+          "district": null,
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "COMPLAINT",
+          "createDate": 1550836381000,
+          "siebelEventId": "1-HZG955",
+          "source": "CALL",
+          "yCoordOracle": 0,
+          "street": null,
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550481202000
+            },
+            {
+              "status": "W trakcie",
+              "description": "Przekazano do Operatora",
+              "changeDate": 1550481213000
+            }
+          ],
+          "xCoordOracle": 0,
+          "notificationNumber": "85135\/19",
+          "yCoordWGS84": 0,
+          "event": null,
+          "xCoordWGS84": 0
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "\u015amieci",
+          "district": "Mokot\u00f3w",
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INCIDENT",
+          "createDate": 1550836357000,
+          "siebelEventId": "1-I1FUNX",
+          "source": "CALL",
+          "yCoordOracle": 5782068.797683,
+          "street": "al. Wilanowska",
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550836806000
+            },
+            {
+              "status": "W trakcie",
+              "description": "Zg\u0142oszenie zamkni\u0119te przez Operatora",
+              "changeDate": 1550836816000
+            }
+          ],
+          "xCoordOracle": 7503730.482014,
+          "notificationNumber": "85134\/19",
+          "yCoordWGS84": 52.17227710162365,
+          "event": "\u0179le oznakowane pojemniki",
+          "xCoordWGS84": 21.05453219773845
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "\u015amieci",
+          "district": "Wilan\u00f3w",
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INCIDENT",
+          "createDate": 1550836660000,
+          "siebelEventId": "1-I1FUUF",
+          "source": "CALL",
+          "yCoordOracle": 5781528.634999,
+          "street": "Biedronki",
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550836907000
+            },
+            {
+              "status": "W trakcie",
+              "description": "Zg\u0142oszenie zamkni\u0119te przez Operatora",
+              "changeDate": 1550836915000
+            }
+          ],
+          "xCoordOracle": 7506082.186,
+          "notificationNumber": "85143\/19",
+          "yCoordWGS84": 52.167401338554,
+          "event": "Nowy punkt odbioru odpad\u00f3w",
+          "xCoordWGS84": 21.08889970114567
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "Komunikacja",
+          "district": null,
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INCIDENT",
+          "createDate": 1550836511000,
+          "siebelEventId": "1-I1FU7E",
+          "source": "CALL",
+          "yCoordOracle": 0,
+          "street": null,
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550837358000
+            },
+            {
+              "status": "W trakcie",
+              "description": null,
+              "changeDate": 1550839206000
+            }
+          ],
+          "xCoordOracle": 0,
+          "notificationNumber": "85140\/19",
+          "yCoordWGS84": 0,
+          "event": "Biletomat nie dzia\u0142a \/ uszkodzony",
+          "xCoordWGS84": 0
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "\u015amieci",
+          "district": "Wola",
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INCIDENT",
+          "createDate": 1550835981000,
+          "siebelEventId": "1-I1FM90",
+          "source": "CALL",
+          "yCoordOracle": 5790162.481999,
+          "street": "K. So\u0142tyka",
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550836302000
+            },
+            {
+              "status": "W trakcie",
+              "description": "Zg\u0142oszenie zamkni\u0119te przez Operatora",
+              "changeDate": 1550836314000
+            }
+          ],
+          "xCoordOracle": 7497827.479,
+          "notificationNumber": "85117\/19",
+          "yCoordWGS84": 52.24502930291598,
+          "event": "Nowy punkt odbioru odpad\u00f3w",
+          "xCoordWGS84": 20.96819016784931
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "\u015amieci",
+          "district": "Bielany",
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INCIDENT",
+          "createDate": 1550836312000,
+          "siebelEventId": "1-I1FMIX",
+          "source": "CALL",
+          "yCoordOracle": 5795180.576999,
+          "street": "Szegedy\u0144ska",
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550836454000
+            },
+            {
+              "status": "W trakcie",
+              "description": "Zg\u0142oszenie zamkni\u0119te przez Operatora",
+              "changeDate": 1550836469000
+            }
+          ],
+          "xCoordOracle": 7496224.394,
+          "notificationNumber": "85129\/19",
+          "yCoordWGS84": 52.290121475781326,
+          "event": "Nowy punkt odbioru odpad\u00f3w",
+          "xCoordWGS84": 20.944661845366085
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "\u015amieci",
+          "district": "Wawer",
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INCIDENT",
+          "createDate": 1550837139000,
+          "siebelEventId": "1-I1FUA3",
+          "source": "CALL",
+          "yCoordOracle": 5789046.198999,
+          "street": "Cedrowa",
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550837404000
+            },
+            {
+              "status": "W trakcie",
+              "description": "Przekazano do Operatora",
+              "changeDate": 1550837411000
+            }
+          ],
+          "xCoordOracle": 7510128.346,
+          "notificationNumber": "85159\/19",
+          "yCoordWGS84": 52.23490767852702,
+          "event": "Nie dostarczono pojemnika \/ worka",
+          "xCoordWGS84": 21.148264520739172
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "\u015amieci",
+          "district": "Ursyn\u00f3w",
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INCIDENT",
+          "createDate": 1550836501000,
+          "siebelEventId": "1-I1FTR9",
+          "source": "CALL",
+          "yCoordOracle": 5778823.561351,
+          "street": "W. K. Roentgena",
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550836755000
+            },
+            {
+              "status": "W trakcie",
+              "description": "Zg\u0142oszenie zamkni\u0119te przez Operatora",
+              "changeDate": 1550836770000
+            }
+          ],
+          "xCoordOracle": 7501899.672141,
+          "notificationNumber": "85139\/19",
+          "yCoordWGS84": 52.143118864556946,
+          "event": "Nie dostarczono pojemnika \/ worka",
+          "xCoordWGS84": 21.027751273290704
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "\u015amieci",
+          "district": "Ursyn\u00f3w",
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INCIDENT",
+          "createDate": 1550836340000,
+          "siebelEventId": "1-I1FQXO",
+          "source": "CALL",
+          "yCoordOracle": 5780949.108187,
+          "street": "K\u0142obucka",
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550836593000
+            },
+            {
+              "status": "W trakcie",
+              "description": "Zg\u0142oszenie zamkni\u0119te przez Operatora",
+              "changeDate": 1550836614000
+            }
+          ],
+          "xCoordOracle": 7499497.489953,
+          "notificationNumber": "85132\/19",
+          "yCoordWGS84": 52.16222593314872,
+          "event": "Przepe\u0142nienie pojemnik\u00f3w \/ work\u00f3w",
+          "xCoordWGS84": 20.99265596177509
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "\u015amieci",
+          "district": "Wawer",
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INCIDENT",
+          "createDate": 1550837324000,
+          "siebelEventId": "1-I1G1OA",
+          "source": "CALL",
+          "yCoordOracle": 5785023.501999,
+          "street": "Przygodna",
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550837744000
+            },
+            {
+              "status": "W trakcie",
+              "description": "Przekazano do Operatora",
+              "changeDate": 1550837774000
+            }
+          ],
+          "xCoordOracle": 7508944.768,
+          "notificationNumber": "85164\/19",
+          "yCoordWGS84": 52.19877338115715,
+          "event": "Nie dostarczono pojemnika \/ worka",
+          "xCoordWGS84": 21.130832409193854
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "Drogi",
+          "district": "Praga Po\u0142udnie",
+          "aparmentNumber": null,
+          "street2": "GRENADIER\u00d3W 2B",
+          "notificationType": "INCIDENT",
+          "createDate": 1550836744000,
+          "siebelEventId": "1-I1FT07",
+          "source": "MOBILE",
+          "yCoordOracle": 5789243.377205,
+          "street": null,
+          "deviceType": "ANDROID",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550836744000
+            },
+            {
+              "status": "W trakcie",
+              "description": null,
+              "changeDate": 1550842685000
+            }
+          ],
+          "xCoordOracle": 7506026.297105,
+          "notificationNumber": "85146\/19",
+          "yCoordWGS84": 52.23674,
+          "event": "\u0179le zaparkowane pojazdy",
+          "xCoordWGS84": 21.08822
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "Drogi",
+          "district": "\u017boliborz",
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INCIDENT",
+          "createDate": 1550836766000,
+          "siebelEventId": "1-I1G10J",
+          "source": "PORTAL",
+          "yCoordOracle": 5792694.252945,
+          "street": "Braci Za\u0142uskich",
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550837382000
+            },
+            {
+              "status": "W trakcie",
+              "description": null,
+              "changeDate": 1550837956000
+            }
+          ],
+          "xCoordOracle": 7497892.460683,
+          "notificationNumber": "85147\/19",
+          "yCoordWGS84": 52.26778425150864,
+          "event": "Zmiana organizacji ruchu",
+          "xCoordWGS84": 20.969125827240305
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "Inne",
+          "district": "Praga-Po\u0142udnie",
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INCIDENT",
+          "createDate": 1550838691000,
+          "siebelEventId": "1-I1GIV7",
+          "source": "PORTAL",
+          "yCoordOracle": 5790336.420834,
+          "street": "Grochowska",
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550839055000
+            },
+            {
+              "status": "W trakcie",
+              "description": null,
+              "changeDate": 1550839854000
+            }
+          ],
+          "xCoordOracle": 7504548.771811,
+          "notificationNumber": "85217\/19",
+          "yCoordWGS84": 52.24657810646972,
+          "event": "Inne zdarzenie",
+          "xCoordWGS84": 21.066604977482736
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "\u015amieci",
+          "district": "Mokot\u00f3w",
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INCIDENT",
+          "createDate": 1550840211000,
+          "siebelEventId": "1-I1GSRI",
+          "source": "PORTAL",
+          "yCoordOracle": 5784952.758882,
+          "street": "Wiktorska",
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550840274000
+            },
+            {
+              "status": "W trakcie",
+              "description": "Zg\u0142oszenie zamkni\u0119te przez Operatora",
+              "changeDate": 1550840280000
+            }
+          ],
+          "xCoordOracle": 7500265.000454,
+          "notificationNumber": "85261\/19",
+          "yCoordWGS84": 52.1982100211466,
+          "event": "Nie dostarczono pojemnika \/ worka",
+          "xCoordWGS84": 21.00387603144759
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "Ziele\u0144",
+          "district": "Bia\u0142o\u0142\u0119ka",
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INCIDENT",
+          "createDate": 1550836685000,
+          "siebelEventId": "1-I1FUGB",
+          "source": "CALL",
+          "yCoordOracle": 5797986.682171,
+          "street": null,
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550837468000
+            },
+            {
+              "status": "W trakcie",
+              "description": null,
+              "changeDate": 1550837878000
+            }
+          ],
+          "xCoordOracle": 7496237.326699,
+          "notificationNumber": "85144\/19",
+          "yCoordWGS84": 52.31534167614404,
+          "event": "Zg\u0142oszenie interwencji w zakresie zieleni przyulicznej, parkowej",
+          "xCoordWGS84": 20.94482005554374
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "\u015amieci",
+          "district": "Wawer",
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INCIDENT",
+          "createDate": 1550836878000,
+          "siebelEventId": "1-I1G5AY",
+          "source": "CALL",
+          "yCoordOracle": 5781765.399533,
+          "street": "Mozaikowa",
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550837473000
+            },
+            {
+              "status": "W trakcie",
+              "description": "Zg\u0142oszenie zamkni\u0119te przez Operatora",
+              "changeDate": 1550837482000
+            }
+          ],
+          "xCoordOracle": 7512914.829303,
+          "notificationNumber": "85153\/19",
+          "yCoordWGS84": 52.16941179216578,
+          "event": "Przepe\u0142nienie pojemnik\u00f3w \/ work\u00f3w",
+          "xCoordWGS84": 21.188776964774636
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "\u015amieci",
+          "district": "Mokot\u00f3w",
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INCIDENT",
+          "createDate": 1550836811000,
+          "siebelEventId": "1-I1FUT9",
+          "source": "CALL",
+          "yCoordOracle": 5782025.119006,
+          "street": "al. Wilanowska",
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550836935000
+            },
+            {
+              "status": "W trakcie",
+              "description": "Zg\u0142oszenie zamkni\u0119te przez Operatora",
+              "changeDate": 1550836939000
+            }
+          ],
+          "xCoordOracle": 7503719.601903,
+          "notificationNumber": "85151\/19",
+          "yCoordWGS84": 52.171884600416234,
+          "event": "\u0179le oznakowane pojemniki",
+          "xCoordWGS84": 21.054372673729596
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "\u015amieci",
+          "district": "Wilan\u00f3w",
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INCIDENT",
+          "createDate": 1550836914000,
+          "siebelEventId": "1-I1FV1F",
+          "source": "CALL",
+          "yCoordOracle": 5781528.634999,
+          "street": "Biedronki",
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550837095000
+            },
+            {
+              "status": "W trakcie",
+              "description": "Zg\u0142oszenie zamkni\u0119te przez Operatora",
+              "changeDate": 1550837105000
+            }
+          ],
+          "xCoordOracle": 7506082.186,
+          "notificationNumber": "85154\/19",
+          "yCoordWGS84": 52.167401338554,
+          "event": "Przepe\u0142nienie pojemnik\u00f3w \/ work\u00f3w",
+          "xCoordWGS84": 21.08889970114567
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "\u015amieci",
+          "district": "Mokot\u00f3w",
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INCIDENT",
+          "createDate": 1550837132000,
+          "siebelEventId": "1-I1G0XK",
+          "source": "CALL",
+          "yCoordOracle": 5783705.628437,
+          "street": "Ksawer\u00f3w",
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550837343000
+            },
+            {
+              "status": "W trakcie",
+              "description": "Zg\u0142oszenie zamkni\u0119te przez Operatora",
+              "changeDate": 1550837361000
+            }
+          ],
+          "xCoordOracle": 7501519.267266,
+          "notificationNumber": "85158\/19",
+          "yCoordWGS84": 52.186999085683354,
+          "event": "Odbi\u00f3r niezgodny z harmonogramem",
+          "xCoordWGS84": 21.022215986895016
+        },
+        {
+          "category": null,
+          "city": null,
+          "subcategory": null,
+          "district": null,
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "STATUS",
+          "createDate": 1550837283000,
+          "siebelEventId": "1-I04J7P",
+          "source": "CALL",
+          "yCoordOracle": 0,
+          "street": null,
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550581019000
+            },
+            {
+              "status": "W trakcie",
+              "description": "Zg\u0142oszenie zamkni\u0119te przez Operatora",
+              "changeDate": 1550581033000
+            }
+          ],
+          "xCoordOracle": 0,
+          "notificationNumber": "85163\/19",
+          "yCoordWGS84": 0,
+          "event": null,
+          "xCoordWGS84": 0
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "Drogi",
+          "district": "\u015ar\u00f3dmie\u015bcie",
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INCIDENT",
+          "createDate": 1550837682000,
+          "siebelEventId": "1-I1FX2O",
+          "source": "MOBILE",
+          "yCoordOracle": 5787742.139571,
+          "street": null,
+          "deviceType": "ANDROID",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550837696000
+            },
+            {
+              "status": "W trakcie",
+              "description": null,
+              "changeDate": 1550844153000
+            }
+          ],
+          "xCoordOracle": 7500563.726975,
+          "notificationNumber": "85180\/19",
+          "yCoordWGS84": 52.22328,
+          "event": "\u0179le zaparkowane pojazdy",
+          "xCoordWGS84": 21.00825
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "\u015amieci",
+          "district": "Bemowo",
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INCIDENT",
+          "createDate": 1550840309000,
+          "siebelEventId": "1-I1GP5Y",
+          "source": "PORTAL",
+          "yCoordOracle": 5791809.552817,
+          "street": "Obro\u0144c\u00f3w Tobruku",
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550840341000
+            },
+            {
+              "status": "W trakcie",
+              "description": "Zg\u0142oszenie zamkni\u0119te przez Operatora",
+              "changeDate": 1550840346000
+            }
+          ],
+          "xCoordOracle": 7495980.573111,
+          "notificationNumber": "85264\/19",
+          "yCoordWGS84": 52.259822236115006,
+          "event": "Nie dostarczono pojemnika \/ worka",
+          "xCoordWGS84": 20.94112837749492
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "\u015amieci",
+          "district": "Ursyn\u00f3w",
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INCIDENT",
+          "createDate": 1550837381000,
+          "siebelEventId": "1-I1G182",
+          "source": "MAIL",
+          "yCoordOracle": 5778671.862826,
+          "street": "Belgradzka",
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550837551000
+            },
+            {
+              "status": "W trakcie",
+              "description": null,
+              "changeDate": 1550837564000
+            }
+          ],
+          "xCoordOracle": 7504467.286863,
+          "notificationNumber": "85167\/19",
+          "yCoordWGS84": 52.1417406347674,
+          "event": "Zmiana cz\u0119stotliwo\u015bci odbioru",
+          "xCoordWGS84": 21.065258143513596
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "\u015amieci",
+          "district": "Wilan\u00f3w",
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INCIDENT",
+          "createDate": 1550837613000,
+          "siebelEventId": "1-I1G8H7",
+          "source": "MAIL",
+          "yCoordOracle": 5777730.069999,
+          "street": "Ruczaj",
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550837771000
+            },
+            {
+              "status": "W trakcie",
+              "description": "Zg\u0142oszenie zamkni\u0119te przez Operatora",
+              "changeDate": 1550837786000
+            }
+          ],
+          "xCoordOracle": 7508943.603,
+          "notificationNumber": "85178\/19",
+          "yCoordWGS84": 52.133221665259015,
+          "event": "Przepe\u0142nienie pojemnik\u00f3w \/ work\u00f3w",
+          "xCoordWGS84": 21.130623286579706
+        },
+        {
+          "category": null,
+          "city": null,
+          "subcategory": null,
+          "district": null,
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "STATUS",
+          "createDate": 1550837344000,
+          "siebelEventId": "1-I1E1SO",
+          "source": "CKM",
+          "yCoordOracle": 0,
+          "street": null,
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550830880000
+            },
+            {
+              "status": "Reklamowane - W trakcie",
+              "description": null,
+              "changeDate": 1550831117000
+            }
+          ],
+          "xCoordOracle": 0,
+          "notificationNumber": "85165\/19",
+          "yCoordWGS84": 0,
+          "event": null,
+          "xCoordWGS84": 0
+        },
+        {
+          "category": null,
+          "city": null,
+          "subcategory": null,
+          "district": null,
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "STATUS",
+          "createDate": 1550837677000,
+          "siebelEventId": "1-I1E1SO",
+          "source": "CKM",
+          "yCoordOracle": 0,
+          "street": null,
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550830880000
+            },
+            {
+              "status": "Reklamowane - W trakcie",
+              "description": null,
+              "changeDate": 1550831117000
+            }
+          ],
+          "xCoordOracle": 0,
+          "notificationNumber": "85179\/19",
+          "yCoordWGS84": 0,
+          "event": null,
+          "xCoordWGS84": 0
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "Drogi",
+          "district": "\u015ar\u00f3dmie\u015bcie",
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INCIDENT",
+          "createDate": 1550838199000,
+          "siebelEventId": "1-I1GGZ5",
+          "source": "CALL",
+          "yCoordOracle": 5788941.01164,
+          "street": "\u015awi\u0119tokrzyska",
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550838911000
+            },
+            {
+              "status": "W trakcie",
+              "description": null,
+              "changeDate": 1550839002000
+            }
+          ],
+          "xCoordOracle": 7500086.856188,
+          "notificationNumber": "85202\/19",
+          "yCoordWGS84": 52.23405538830004,
+          "event": "Awaria parkometru - StrefaPPN",
+          "xCoordWGS84": 21.00127142584505
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "Drogi",
+          "district": "Praga P\u00f3\u0142noc",
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INCIDENT",
+          "createDate": 1550838515000,
+          "siebelEventId": "1-I1GH7R",
+          "source": "CALL",
+          "yCoordOracle": 5790844.519357,
+          "street": null,
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550839024000
+            },
+            {
+              "status": "W trakcie",
+              "description": null,
+              "changeDate": 1550839333000
+            }
+          ],
+          "xCoordOracle": 7502284.724013,
+          "notificationNumber": "85210\/19",
+          "yCoordWGS84": 52.25115877712515,
+          "event": "Zg\u0142oszenie uszkodzenia chodnika, \u015bcie\u017cki rowerowej, lub wykruszenia nawierzchni jezdni",
+          "xCoordWGS84": 21.033457307711142
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "Drogi",
+          "district": "Ochota",
+          "aparmentNumber": null,
+          "street2": "M. REJA 6",
+          "notificationType": "INCIDENT",
+          "createDate": 1550838028000,
+          "siebelEventId": "1-I1G4UL",
+          "source": "MOBILE",
+          "yCoordOracle": 5787087.938065,
+          "street": null,
+          "deviceType": "ANDROID",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550838028000
+            },
+            {
+              "status": "W trakcie",
+              "description": null,
+              "changeDate": 1550844521000
+            }
+          ],
+          "xCoordOracle": 7499249.631553,
+          "notificationNumber": "85198\/19",
+          "yCoordWGS84": 52.2174,
+          "event": "\u0179le zaparkowane pojazdy",
+          "xCoordWGS84": 20.98902
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "Drogi",
+          "district": "Wola",
+          "aparmentNumber": null,
+          "street2": "\u0141ucka 12, 00-845 Wola",
+          "notificationType": "INCIDENT",
+          "createDate": 1550838899000,
+          "siebelEventId": "1-I1G54V",
+          "source": "MOBILE",
+          "yCoordOracle": 5788785.806364,
+          "street": null,
+          "deviceType": "ANDROID",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550838900000
+            },
+            {
+              "status": "W trakcie",
+              "description": null,
+              "changeDate": 1550844665000
+            }
+          ],
+          "xCoordOracle": 7499290.195262,
+          "notificationNumber": "85224\/19",
+          "yCoordWGS84": 52.23266,
+          "event": "Uci\u0105\u017cliwe prace budowlane\/ zanieczyszczenia ulic z budowy",
+          "xCoordWGS84": 20.98961
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "\u015amieci",
+          "district": "Mokot\u00f3w",
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INCIDENT",
+          "createDate": 1550837851000,
+          "siebelEventId": "1-I1G60U",
+          "source": "MAIL",
+          "yCoordOracle": 5783000.298124,
+          "street": "Post\u0119pu",
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550838034000
+            },
+            {
+              "status": "W trakcie",
+              "description": "Zg\u0142oszenie zamkni\u0119te przez Operatora",
+              "changeDate": 1550838045000
+            }
+          ],
+          "xCoordOracle": 7499888.811328,
+          "notificationNumber": "85191\/19",
+          "yCoordWGS84": 52.18066181761296,
+          "event": "Przepe\u0142nienie pojemnik\u00f3w \/ work\u00f3w",
+          "xCoordWGS84": 20.99837433806921
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "\u015amieci",
+          "district": "Praga-Po\u0142udnie",
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INCIDENT",
+          "createDate": 1550838201000,
+          "siebelEventId": "1-I1G8ZV",
+          "source": "CALL",
+          "yCoordOracle": 5789231.458029,
+          "street": "Finlandzka",
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550838575000
+            },
+            {
+              "status": "W trakcie",
+              "description": "Zg\u0142oszenie zamkni\u0119te przez Operatora",
+              "changeDate": 1550838588000
+            }
+          ],
+          "xCoordOracle": 7503412.769091,
+          "notificationNumber": "85203\/19",
+          "yCoordWGS84": 52.23665526634123,
+          "event": "\u0179le oznakowane pojemniki",
+          "xCoordWGS84": 21.04996001533418
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "\u015amieci",
+          "district": "Praga-P\u00f3\u0142noc",
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INCIDENT",
+          "createDate": 1550838134000,
+          "siebelEventId": "1-I1G8QB",
+          "source": "MAIL",
+          "yCoordOracle": 5790811.472999,
+          "street": "Targowa",
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550838191000
+            },
+            {
+              "status": "W trakcie",
+              "description": "Zg\u0142oszenie zamkni\u0119te przez Operatora",
+              "changeDate": 1550838201000
+            }
+          ],
+          "xCoordOracle": 7502774.216,
+          "notificationNumber": "85200\/19",
+          "yCoordWGS84": 52.25085951856187,
+          "event": "Zaleganie gabaryt\u00f3w",
+          "xCoordWGS84": 21.04062511441422
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "\u015amieci",
+          "district": "Mokot\u00f3w",
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INCIDENT",
+          "createDate": 1550838451000,
+          "siebelEventId": "1-I1GIMW",
+          "source": "MAIL",
+          "yCoordOracle": 5785561.549292,
+          "street": "Czerska",
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550838862000
+            },
+            {
+              "status": "W trakcie",
+              "description": "Zg\u0142oszenie zamkni\u0119te przez Operatora",
+              "changeDate": 1550838868000
+            }
+          ],
+          "xCoordOracle": 7503113.280923,
+          "notificationNumber": "85207\/19",
+          "yCoordWGS84": 52.20367295097978,
+          "event": "Zaleganie gabaryt\u00f3w",
+          "xCoordWGS84": 21.045542015378274
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "\u015amieci",
+          "district": "Ursyn\u00f3w",
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INCIDENT",
+          "createDate": 1550838584000,
+          "siebelEventId": "1-I1GIGJ",
+          "source": "CALL",
+          "yCoordOracle": 5779093.245551,
+          "street": "Walczyka",
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550838738000
+            },
+            {
+              "status": "W trakcie",
+              "description": "Zg\u0142oszenie zamkni\u0119te przez Operatora",
+              "changeDate": 1550838754000
+            }
+          ],
+          "xCoordOracle": 7500861.826567,
+          "notificationNumber": "85213\/19",
+          "yCoordWGS84": 52.14554533376723,
+          "event": "Nowy punkt odbioru odpad\u00f3w",
+          "xCoordWGS84": 21.01259063803635
+        },
+        {
+          "category": "Wolne wnioski i uwagi",
+          "city": null,
+          "subcategory": "Wolne wnioski i uwagi",
+          "district": null,
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "FREEFORM",
+          "createDate": 1550838582000,
+          "siebelEventId": "1-I1GILI",
+          "source": "CALL",
+          "yCoordOracle": 0,
+          "street": null,
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550838855000
+            },
+            {
+              "status": "W trakcie",
+              "description": null,
+              "changeDate": 1550839098000
+            }
+          ],
+          "xCoordOracle": 0,
+          "notificationNumber": "85212\/19",
+          "yCoordWGS84": 0,
+          "event": "Wolne wnioski i uwagi",
+          "xCoordWGS84": 0
+        },
+        {
+          "category": "Wolne wnioski i uwagi",
+          "city": null,
+          "subcategory": "Wolne wnioski i uwagi",
+          "district": null,
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "FREEFORM",
+          "createDate": 1550838681000,
+          "siebelEventId": "1-I1GNVH",
+          "source": "CALL",
+          "yCoordOracle": 0,
+          "street": null,
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550839561000
+            },
+            {
+              "status": "W trakcie",
+              "description": null,
+              "changeDate": 1550844217000
+            }
+          ],
+          "xCoordOracle": 0,
+          "notificationNumber": "85215\/19",
+          "yCoordWGS84": 0,
+          "event": "Wolne wnioski i uwagi",
+          "xCoordWGS84": 0
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "\u015amieci",
+          "district": "Wilan\u00f3w",
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INCIDENT",
+          "createDate": 1550839425000,
+          "siebelEventId": "1-I1GHLH",
+          "source": "WEBCHAT",
+          "yCoordOracle": 5781984.601999,
+          "street": "Biedronki",
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550839738000
+            },
+            {
+              "status": "W trakcie",
+              "description": "Zg\u0142oszenie zamkni\u0119te przez Operatora",
+              "changeDate": 1550839749000
+            }
+          ],
+          "xCoordOracle": 7506091.992,
+          "notificationNumber": "85238\/19",
+          "yCoordWGS84": 52.17149936313582,
+          "event": "Zaleganie gabaryt\u00f3w",
+          "xCoordWGS84": 21.089051210761202
+        },
+        {
+          "category": null,
+          "city": null,
+          "subcategory": null,
+          "district": null,
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "COMPLAINT",
+          "createDate": 1550839179000,
+          "siebelEventId": "1-HZN1X9",
+          "source": "CALL",
+          "yCoordOracle": 0,
+          "street": null,
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550494929000
+            },
+            {
+              "status": "W trakcie",
+              "description": "Zg\u0142oszenie zamkni\u0119te przez Operatora",
+              "changeDate": 1550494943000
+            }
+          ],
+          "xCoordOracle": 0,
+          "notificationNumber": "85234\/19",
+          "yCoordWGS84": 0,
+          "event": null,
+          "xCoordWGS84": 0
+        },
+        {
+          "category": "Wolne wnioski i uwagi",
+          "city": null,
+          "subcategory": "Wolne wnioski i uwagi",
+          "district": null,
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "FREEFORM",
+          "createDate": 1550839572000,
+          "siebelEventId": "1-I1GO4X",
+          "source": "CALL",
+          "yCoordOracle": 0,
+          "street": null,
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550839977000
+            },
+            {
+              "status": "W trakcie",
+              "description": null,
+              "changeDate": 1550844207000
+            }
+          ],
+          "xCoordOracle": 0,
+          "notificationNumber": "85239\/19",
+          "yCoordWGS84": 0,
+          "event": "Wolne wnioski i uwagi",
+          "xCoordWGS84": 0
+        },
+        {
+          "category": null,
+          "city": "Warszawa",
+          "subcategory": null,
+          "district": null,
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "COMPLAINT",
+          "createDate": 1550839964000,
+          "siebelEventId": "1-HNSS4F",
+          "source": "CALL",
+          "yCoordOracle": 0,
+          "street": null,
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1547796819000
+            },
+            {
+              "status": "W trakcie",
+              "description": "Zg\u0142oszenie zamkni\u0119te przez Operatora",
+              "changeDate": 1547796834000
+            }
+          ],
+          "xCoordOracle": 0,
+          "notificationNumber": "85254\/19",
+          "yCoordWGS84": 0,
+          "event": null,
+          "xCoordWGS84": 0
+        },
+        {
+          "category": null,
+          "city": null,
+          "subcategory": null,
+          "district": null,
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INFORMATIONAL",
+          "createDate": 1550840046000,
+          "siebelEventId": "1-I1GOBZ",
+          "source": "MAIL",
+          "yCoordOracle": 0,
+          "street": null,
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550840129000
+            },
+            {
+              "status": "W trakcie",
+              "description": null,
+              "changeDate": 1550842311000
+            }
+          ],
+          "xCoordOracle": 0,
+          "notificationNumber": "85255\/19",
+          "yCoordWGS84": 0,
+          "event": null,
+          "xCoordWGS84": 0
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "\u015amieci",
+          "district": "Bia\u0142o\u0142\u0119ka",
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INCIDENT",
+          "createDate": 1550840135000,
+          "siebelEventId": "1-I1GZH9",
+          "source": "CALL",
+          "yCoordOracle": 5799069.053977,
+          "street": "Bia\u0142o\u0142\u0119cka",
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550840636000
+            },
+            {
+              "status": "W trakcie",
+              "description": "Zg\u0142oszenie zamkni\u0119te przez Operatora",
+              "changeDate": 1550840648000
+            }
+          ],
+          "xCoordOracle": 7502246.325019,
+          "notificationNumber": "85259\/19",
+          "yCoordWGS84": 52.3250778538413,
+          "event": "Zaleganie gabaryt\u00f3w",
+          "xCoordWGS84": 21.03294978953179
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "\u015amieci",
+          "district": "Ursyn\u00f3w",
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INCIDENT",
+          "createDate": 1550840350000,
+          "siebelEventId": "1-I1GYWN",
+          "source": "CALL",
+          "yCoordOracle": 5777567.904999,
+          "street": "Transportowc\u00f3w",
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550840964000
+            },
+            {
+              "status": "W trakcie",
+              "description": "Zg\u0142oszenie zamkni\u0119te przez Operatora",
+              "changeDate": 1550840972000
+            }
+          ],
+          "xCoordOracle": 7501117.666,
+          "notificationNumber": "85265\/19",
+          "yCoordWGS84": 52.13183535702139,
+          "event": "Szkody podczas wykonywania us\u0142ug",
+          "xCoordWGS84": 21.016323247392734
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "\u015amieci",
+          "district": "Wilan\u00f3w",
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INCIDENT",
+          "createDate": 1550840910000,
+          "siebelEventId": "1-I1GZ8N",
+          "source": "CALL",
+          "yCoordOracle": 5781737.574937,
+          "street": "Biedronki",
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550841143000
+            },
+            {
+              "status": "W trakcie",
+              "description": "Zg\u0142oszenie zamkni\u0119te przez Operatora",
+              "changeDate": 1550841151000
+            }
+          ],
+          "xCoordOracle": 7506097.319641,
+          "notificationNumber": "85280\/19",
+          "yCoordWGS84": 52.16927907893869,
+          "event": "Przepe\u0142nienie pojemnik\u00f3w \/ work\u00f3w",
+          "xCoordWGS84": 21.089124652302704
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "\u015amieci",
+          "district": "Ochota",
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INCIDENT",
+          "createDate": 1550840877000,
+          "siebelEventId": "1-I1GYX0",
+          "source": "PORTAL",
+          "yCoordOracle": 5786162.081072,
+          "street": "S. Skar\u017cy\u0144skiego",
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550840942000
+            },
+            {
+              "status": "W trakcie",
+              "description": "Zg\u0142oszenie zamkni\u0119te przez Operatora",
+              "changeDate": 1550840949000
+            }
+          ],
+          "xCoordOracle": 7498157.945029,
+          "notificationNumber": "85278\/19",
+          "yCoordWGS84": 52.209076083682426,
+          "event": "Nie dostarczono pojemnika \/ worka",
+          "xCoordWGS84": 20.973050594329834
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "\u015amieci",
+          "district": "Bia\u0142o\u0142\u0119ka",
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INCIDENT",
+          "createDate": 1550841136000,
+          "siebelEventId": "1-I1H73F",
+          "source": "PORTAL",
+          "yCoordOracle": 5799505.546874,
+          "street": "Ksi\u0105\u017ckowa",
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550841202000
+            },
+            {
+              "status": "W trakcie",
+              "description": "Zg\u0142oszenie zamkni\u0119te przez Operatora",
+              "changeDate": 1550841208000
+            }
+          ],
+          "xCoordOracle": 7495718.074219,
+          "notificationNumber": "85289\/19",
+          "yCoordWGS84": 52.328988754022944,
+          "event": "Odbi\u00f3r niezgodny z harmonogramem",
+          "xCoordWGS84": 20.9371858484545
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "Drogi",
+          "district": "Praga Po\u0142udnie",
+          "aparmentNumber": null,
+          "street2": "BAJO\u0143SKA 3, 03-963 Praga-Po\u0142udnie",
+          "notificationType": "INCIDENT",
+          "createDate": 1550841179000,
+          "siebelEventId": "1-I1GS39",
+          "source": "MOBILE",
+          "yCoordOracle": 5787997.234154,
+          "street": null,
+          "deviceType": "IOS",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550841180000
+            },
+            {
+              "status": "W trakcie",
+              "description": null,
+              "changeDate": 1550845571000
+            }
+          ],
+          "xCoordOracle": 7504020.119322,
+          "notificationNumber": "85294\/19",
+          "yCoordWGS84": 52.2255583407658,
+          "event": "\u0179le zaparkowane pojazdy",
+          "xCoordWGS84": 21.0588364310646
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "\u015amieci",
+          "district": "Ursyn\u00f3w",
+          "aparmentNumber": null,
+          "street2": "NOWOURSYNOWSKA 139",
+          "notificationType": "INCIDENT",
+          "createDate": 1550842203000,
+          "siebelEventId": "1-I1HF7M",
+          "source": "MOBILE",
+          "yCoordOracle": 5779608.325311,
+          "street": null,
+          "deviceType": "ANDROID",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550842475000
+            },
+            {
+              "status": "W trakcie",
+              "description": null,
+              "changeDate": 1550846221000
+            }
+          ],
+          "xCoordOracle": 7504132.57109,
+          "notificationNumber": "85335\/19",
+          "yCoordWGS84": 52.15016,
+          "event": "Nieczysto\u015bci w miejscach publicznych",
+          "xCoordWGS84": 21.06038
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "Drogi",
+          "district": "Bia\u0142o\u0142\u0119ka",
+          "aparmentNumber": null,
+          "street2": "S\u0142odka 24A, 03-290 Bia\u0142o\u0142\u0119ka",
+          "notificationType": "INCIDENT",
+          "createDate": 1550840393000,
+          "siebelEventId": "1-I1GYM8",
+          "source": "MOBILE",
+          "yCoordOracle": 5801678.685668,
+          "street": null,
+          "deviceType": "ANDROID",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550840519000
+            },
+            {
+              "status": "W trakcie",
+              "description": null,
+              "changeDate": 1550840728000
+            }
+          ],
+          "xCoordOracle": 7504269.536144,
+          "notificationNumber": "85267\/19",
+          "yCoordWGS84": 52.34852,
+          "event": "Zg\u0142oszenie uszkodzenia chodnika, \u015bcie\u017cki rowerowej, lub wykruszenia nawierzchni jezdni",
+          "xCoordWGS84": 21.06266
+        },
+        {
+          "category": "Proces Interwencyjny",
+          "city": "Warszawa",
+          "subcategory": "\u015amieci",
+          "district": "Bemowo",
+          "aparmentNumber": null,
+          "street2": null,
+          "notificationType": "INCIDENT",
+          "createDate": 1550840619000,
+          "siebelEventId": "1-I1GYP4",
+          "source": "PORTAL",
+          "yCoordOracle": 5791806.458392,
+          "street": "Obro\u0144c\u00f3w Tobruku",
+          "deviceType": "UNKNOWN",
+          "statuses": [
+            {
+              "status": "Nowe",
+              "description": null,
+              "changeDate": 1550840669000
+            },
+            {
+              "status": "W trakcie",
+              "description": "Zg\u0142oszenie zamkni\u0119te przez Operatora",
+              "changeDate": 1550840671000
+            }
+          ],
+          "xCoordOracle": 7495976.284233,
+          "notificationNumber": "85271\/19",
+          "yCoordWGS84": 52.25979439316878,
+          "event": "Zmiana cz\u0119stotliwo\u015bci odbioru",
+          "xCoordWGS84": 20.941065596189105
+        }
+      ],
+      "responseDesc": "OK",
+      "responseCode": "SUCCESS"
+    }
+  }
+}
