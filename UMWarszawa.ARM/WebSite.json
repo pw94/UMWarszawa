@@ -83,7 +83,8 @@
       "type": "Microsoft.Web/serverfarms",
       "location": "[resourceGroup().location]",
       "tags": {
-        "displayName": "HostingPlan"
+        "displayName": "HostingPlan",
+        "ServiceOwner": "[parameters('serviceOwnerValue')]"
       },
       "sku": {
         "name": "[parameters('skuName')]",
@@ -292,7 +293,8 @@
       ],
       "tags": {
         "[concat('hidden-link:', resourceGroup().id, '/providers/Microsoft.Web/sites/', variables('webSiteName'))]": "Resource",
-        "displayName": "AppInsightsComponent"
+        "displayName": "AppInsightsComponent",
+        "ServiceOwner": "[parameters('serviceOwnerValue')]"
       },
       "properties": {
         "applicationId": "[variables('webSiteName')]"
