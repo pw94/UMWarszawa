@@ -3,7 +3,7 @@ using Newtonsoft.Json;
 
 namespace UMWarszawa.Converters
 {
-    public class MyDateTimeConverter : JsonConverter
+    public class DateTimeMillisecondsConverter : JsonConverter
     {
         public override bool CanConvert(Type objectType)
         {

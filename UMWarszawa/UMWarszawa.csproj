@@ -141,7 +141,7 @@
     <Compile Include="App_Start\UnityConfig.cs" />
     <Compile Include="App_Start\UnityMvcActivator.cs" />
     <Compile Include="Controllers\HomeController.cs" />
-    <Compile Include="Converters\MyDateTimeConverter.cs" />
+    <Compile Include="Converters\DateTimeMillisecondsConverter.cs" />
     <Compile Include="Exceptions\ConfigurationMissingException.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>

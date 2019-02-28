@@ -9,7 +9,7 @@ namespace UMWarszawa.Models
         [JsonProperty(PropertyName = "Status")]
         public string StatusName { get; set; }
         public string Description { get; set; }
-        [JsonConverter(typeof(MyDateTimeConverter))]
+        [JsonConverter(typeof(DateTimeMillisecondsConverter))]
         public DateTime ChangeDate { get; set; }
     }
 }

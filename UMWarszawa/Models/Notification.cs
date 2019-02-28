@@ -16,7 +16,7 @@ namespace UMWarszawa.Models
         public string Street2 { get; set; }
         [JsonConverter(typeof(StringEnumConverter))]
         public NotificationType NotificationType { get; set; }
-        [JsonConverter(typeof(MyDateTimeConverter))]
+        [JsonConverter(typeof(DateTimeMillisecondsConverter))]
         public DateTime CreateDate { get; set; }
         public string SiebelEventId { get; set; }
         [JsonConverter(typeof(StringEnumConverter))]
