@@ -88,7 +88,7 @@ namespace UMWarszawa.Controllers
             const string WarsawApiUrlKey = "WarsawApiUrl";
             const string ApiKeyKey = "apiKey";
 
-            var warsawApiUrl = ConfigurationManager.AppSettings[WarsawApiUrlKey];
+            var warsawApiUrl = Environment.GetEnvironmentVariable(WarsawApiUrlKey) ?? ConfigurationManager.AppSettings[WarsawApiUrlKey];
             if (warsawApiUrl == null)
             {
                 throw new ConfigurationMissingException(WarsawApiUrlKey);
